@@ -33,7 +33,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/art-gallery-website.git
+git clone https://github.com/yashinipriya07/Art-Gallery-Website.git
 
 
 Navigate to the project folder:
