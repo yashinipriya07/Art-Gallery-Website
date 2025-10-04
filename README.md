@@ -26,7 +26,7 @@ Flexbox – Responsive gallery layout
 Demo
 
 You can view the live demo here:
-Live Demo Link
+Live Demo Link https://yashinipriya07.github.io/Art-Gallery-Website/
  
 
 Installation
