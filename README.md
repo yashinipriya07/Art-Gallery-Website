@@ -50,7 +50,3 @@ Replace the images in the images folder with your own artworks.
 Update image captions or add more images by editing the HTML file.
 
 
-
-License
-
-This project is open-source and available under the MIT License.
